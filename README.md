@@ -66,8 +66,9 @@ src/
 - No automated tests.
 
 ## Screenshots
+### Desktop View
+![Desktop](screenshots/desktop.png)
 
-_Add desktop and mobile screenshots here._
-=======
+### Mobile View
+![Mobile](screenshots/mobile.png)
 
->>>>>>> ff4a16d3dccf59e71d4219e36e275600d6ec7625
