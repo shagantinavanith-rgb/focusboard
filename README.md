@@ -3,7 +3,7 @@
 
 A responsive, single-user task dashboard built with React (Vite) and plain CSS, following the provided Figma frames (desktop 1440, mobile 390, "Create new task" form, and the three Focus notes carousel slides). Frontend only: no backend, auth, or database.
 
-**Live URL:** _add your hosted HTTPS URL here after deploying_
+**Live URL:** https://focusboard-navy.vercel.app
 
 ## Setup
 
